@@ -1,7 +1,7 @@
 ## Hi, i'm Diana
 
 # 💫 About Me:
-🧠​ Software engineering student & iOS developer<br>📱 Apps, architecture, and UX thinking<br>🎯 Focused on structure and quality<br>🌍 Language learning enthusiast
+🧠​ Software engineering student & iOS developer<br>📱 Apps, architecture, and logic-first thinking<br>🎯 Focused on structure and quality<br>🌍 Language learning enthusiast
 
 
 ## 🌐 Socials:
