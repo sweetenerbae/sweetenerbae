@@ -1,14 +1,14 @@
-# Hi, I'm Diana
+# hi, i'm Diana
 
 ## about
 
-Software engineering student, iOS/backend developer.
+Software engineering student and iOS/backend developer focused on building reliable and maintainable applications.
 
-I build production applications with a focus on architecture,
-business logic and maintainable code.
+I work with Swift and Go, developing mobile interfaces, REST APIs, database structures and server-side business logic. I enjoy turning complex requirements into clear architecture and practical solutions.
 
-Currently developing **STU App** — a construction project management
-system with expenses, materials, documents, employees and analytics.
+I care about clean code, data security, predictable behavior and thoughtful user experience. I am continuously improving my knowledge of system design, backend infrastructure, databases and iOS development.
+
+I am especially interested in application architecture, API design and creating products that remain understandable and scalable as they grow.
 
 [LinkedIn](https://linkedin.com/in/dianakuchaeva) ·
 [Email](mailto:dianakuchaeva@hotmail.com)
