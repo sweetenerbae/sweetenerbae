@@ -31,36 +31,11 @@ system with expenses, materials, documents, employees and analytics.
 - **iOS:** Swift · UIKit · SwiftUI · Xcode
 - **infrastructure:** Docker · Docker Compose · Caddy · Linux
 - **tools:** Swagger · Postman
-
----
-
-## featured project
-
-### STU App
-
-Construction project management platform.
-
-- Backend developed with Go, Gin, PostgreSQL and sqlc
-- Role-based and project-level access control
-- Project expenses, materials, documents and employee management
-- PDF, Word and Excel processing
-- SMTP email delivery with attachments
-- Docker deployment, HTTPS and encrypted daily backups
-
+- 
 ---
 
 ## GitHub stats
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sweetenerbae&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Diana's GitHub statistics"
-  />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetenerbae&show_icons=true&theme=github_dark&hide_border=true)
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetenerbae&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetenerbae&layout=compact&theme=github_dark&hide_border=true)
