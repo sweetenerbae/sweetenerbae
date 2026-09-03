@@ -34,6 +34,6 @@ I am especially interested in application architecture, API design and creating 
 
 ## GitHub stats
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sweetenerbae&theme=github_dark)
-
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sweetenerbae&theme=github_dark)
+| Statistics | Languages |
+|---|---|
+| ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sweetenerbae&theme=github_dark) | ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sweetenerbae&theme=github_dark) |
