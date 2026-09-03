@@ -10,7 +10,6 @@ business logic and maintainable code.
 Currently developing **STU App** — a construction project management
 system with expenses, materials, documents, employees and analytics.
 
-[Instagram](https://instagram.com/bearwithmii) ·
 [LinkedIn](https://linkedin.com/in/dianakuchaeva) ·
 [Email](mailto:dianakuchaeva@hotmail.com)
 
@@ -20,7 +19,7 @@ system with expenses, materials, documents, employees and analytics.
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=swift,go,python,cs,postgres,docker,git,github,firebase,figma&theme=dark"
+    src="https://skillicons.dev/icons?i=swift,go,python,cs,postgres,docker,git,postman,firebase&theme=dark"
     alt="Core skills"
   />
 </p>
@@ -31,11 +30,10 @@ system with expenses, materials, documents, employees and analytics.
 - **iOS:** Swift · UIKit · SwiftUI · Xcode
 - **infrastructure:** Docker · Docker Compose · Caddy · Linux
 - **tools:** Swagger · Postman
-- 
 ---
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetenerbae&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sweetenerbae&theme=github_dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetenerbae&layout=compact&theme=github_dark&hide_border=true)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sweetenerbae&theme=github_dark)
