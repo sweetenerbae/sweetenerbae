@@ -8,8 +8,6 @@ I work with Swift and Go, developing mobile interfaces, REST APIs, database stru
 
 I care about clean code, data security, predictable behavior and thoughtful user experience. I am continuously improving my knowledge of system design, backend infrastructure, databases and iOS development.
 
-I am especially interested in application architecture, API design and creating products that remain understandable and scalable as they grow.
-
 [LinkedIn](https://linkedin.com/in/dianakuchaeva) ·
 [Email](mailto:dianakuchaeva@hotmail.com)
 
