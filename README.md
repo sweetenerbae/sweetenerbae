@@ -6,8 +6,6 @@ Software engineering student and iOS/backend developer focused on building relia
 
 I work with Swift and Go, developing mobile interfaces, REST APIs, database structures and server-side business logic. I enjoy turning complex requirements into clear architecture and practical solutions.
 
-I care about clean code, data security, predictable behavior and thoughtful user experience. I am continuously improving my knowledge of system design, backend infrastructure, databases and iOS development.
-
 [LinkedIn](https://linkedin.com/in/dianakuchaeva) ·
 [Email](mailto:dianakuchaeva@hotmail.com)
 
